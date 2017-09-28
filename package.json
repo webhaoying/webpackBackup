@@ -1,7 +1,7 @@
 {
   "name": "react-exercise",
   "version": "1.0.0",
-  "description": "the first lesson ",
+  "description": "the first production learned ",
   "main": "root.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" ",
@@ -20,6 +20,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-mixin": "^2.0.2",
+    "react-responsive": "^1.3.4",
     "react-router": "^2.8.1",
     "react-router-dom": "^4.2.2",
     "style-loader": "^0.18.2",
