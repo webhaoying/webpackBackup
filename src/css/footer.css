@@ -1,0 +1,12 @@
+/*css to react 可以快速转换*/
+.miniFooter{
+    background-color: #f00;
+    color: #f00;
+    padding-left:20px;
+    padding-top: 3px;
+    padding-bottom:3px;
+}
+.miniFooter h1{
+    color: #fff;
+    font-size: 12px;
+}

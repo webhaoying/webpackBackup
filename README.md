@@ -17,3 +17,7 @@ run fluently。
  firstly cd into de dir where  you git clone the repo.Then run 'webpack' in an  terminal tab and run 'webpack-dev-server' in another terminal tab.You can also 'npm run dev ' ,it is a Combination of 'webpack' and 'webpack-dev-server'
 ##### 中文
 首先，就像克隆所有项目一样，将其克隆到自己电脑的本地仓库，然后在命令行窗口运行'webpack' ,然后在另外一个命令行窗口运行'webpack-dev-server'确保两个命令是同时都在运行着，在开发的时候，只要这两个terminal（macbook中）窗口一直是运行的，那么webpack的热更新还有本地服务器，还有就是这个生bundle.js，还有ES6 转换ES5，react的JSX语法转化成纯js，都是完美实现了的。
+
+````
+nihao
+````
